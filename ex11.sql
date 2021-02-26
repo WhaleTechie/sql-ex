@@ -1,4 +1,4 @@
-#Найдите среднюю скорость ПК.
+#Find out the average speed of PCs.
 
 SELECT AVG(speed)
 From PC
